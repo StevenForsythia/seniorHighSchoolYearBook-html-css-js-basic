@@ -1,0 +1,58 @@
+SELALU SALAH = 14 ORANG
+SELALU BENAR = 22 ORANG
+
+100 VH UNTUK HALAMAN PERTAMA
+
+8 CARD UNTUK 1 HALAMAN
+
+5 LAMAN UNTUK SEMUA CARD
+
+32 CARD UNTUK 4 HALAMAN + 4 CARD UNTUK 1 HALAMAN
+SUB TOTAL = 36 CARD
+
+100 VH UNTUK PENUTUP
+
+TOTAL HALAMAN = 6 HALAMAN
+
+#SELALU SALAH
+abdul = 1
+ahmad = 2
+andrian = 3
+dabuy = 4
+dafauzan = 5
+darun = 6
+abut = 7
+gery = 8
+ikhwan = 9
+iyan = 10
+amirul = 11
+marsel = 12
+steven = 13
+zelmi = 14
+
+#SELALU BENAR
+adinda = 15
+delia = 16
+desi = 17
+diva = 18
+izza = 19
+juliana = 20
+kamil = 21
+martsela = 22 
+mellya = 23
+milda = 24
+nabila = 25
+nawrah = 26
+amel = 27
+okta = 28
+puspa = 29
+uti = 30
+rena = 31
+sitzah = 32
+syaila = 33
+tiara =  34
+sabitah = 35
+zakiyatu = 36
+
+
+
